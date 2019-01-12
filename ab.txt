@@ -1,0 +1,27 @@
+//Identity
+
+PlayerName      :       asdasdName      ;
+Money           :       0;
+Life            :       3;
+Time            :       2;
+CurrentRoom     :       4;
+X               :       3;
+Y               :       1;
+
+//Map
+
+//ROOM1
+//ROOM2
+//ROOM3
+
+//Details
+
+Waiting Cust
+
+Order
+
+Food Stack
+
+Hand
+
+ENDOFFILE#

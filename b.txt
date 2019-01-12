@@ -1,0 +1,27 @@
+//Identity
+
+PlayerName      :       babe;
+Money           :       0;
+Life            :       3;
+Time            :       0;
+CurrentRoom     :       4;
+X               :       1;
+Y               :       1;
+
+//Map
+
+//ROOM1
+//ROOM2
+//ROOM3
+
+//Details
+
+Waiting Cust
+
+Order
+
+Food Stack
+
+Hand
+
+ENDOFFILE#
